@@ -11,7 +11,7 @@ export default function Footer() {
        
         <div>
           <h3 className="text-xl font-semibold mb-4">Contact Us</h3>
-          <p>📍 123 Corporate houes,Vishakhapatnam, India</p>
+          <p>📍 123 Corporate house,Vishakhapatnam, India</p>
           <p>📧 Team@emgage.work</p>
           <p>📞 +91 98765 01234</p>
         </div>
